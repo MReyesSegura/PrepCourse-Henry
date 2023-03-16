@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-PrepCourse de Henry M2
+This file is a test of how clone an online repository in a local repository.
